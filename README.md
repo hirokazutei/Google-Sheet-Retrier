@@ -3,7 +3,9 @@ Waits and Retries Request When You Hit API Limit
 
 ## How to use:
 1. Import it:
-`import retrier`
+~~~
+import retrier
+~~~
 
 2. Use it as a decorator:
 ~~~
